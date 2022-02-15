@@ -1,2 +1,2 @@
 # tsov
-некоторые данные и сведения о себе
+some data and informftion about yourself
